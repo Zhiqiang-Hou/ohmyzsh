@@ -167,6 +167,8 @@ alias gclean='git clean --interactive -d'
 alias gcl='git clone --recurse-submodules'
 alias gclf='git clone --recursive --shallow-submodules --filter=blob:none --also-filter-submodules'
 
+alias gfp='git format-patch'
+
 function gccd() {
   setopt localoptions extendedglob
 
