@@ -17,7 +17,7 @@ source ~/host-setup/antigen.zsh
 antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
-antigen bundle git
+# antigen bundle git
 # antigen bundle heroku
 # antigen bundle pip
 # antigen bundle lein
@@ -117,7 +117,7 @@ export ZSH=$HOME/.oh-my-zsh
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 # plugins=(zsh-syntax-highlighting zsh-vi-mode zsh-autosuggestions git autojump colored-man-pages copybuffer copypath copyfile)
-# plugins=(zsh-autosuggestions git autojump colored-man-pages copybuffer copypath copyfile)
+plugins=(git) # to use the local changes
 
 source $ZSH/oh-my-zsh.sh
 
