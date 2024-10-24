@@ -211,9 +211,10 @@ export PATH="/opt/nvim-linux64/bin:$PATH"
 # export https_proxy=http://wbinxf42681:Welcome%402017@apac.nics.nxp.com:8080/
 # export http_proxy=http://wbinxf42681:Welcome%402017@apac.nics.nxp.com:8080/
 # export ftp_proxy=http://wbinxf42681:Welcome%402017@apac.nics.nxp.com:8080/
-export ftp_proxy=http://wbi%5cnxf42681:Welcome%402017@apac.nics.nxp.com:8080
-export http_proxy=http://wbi%5cnxf42681:Welcome%402017@apac.nics.nxp.com:8080
-export https_proxy=http://wbi%5cnxf42681:Welcome%402017@apac.nics.nxp.com:8080
+
+# export ftp_proxy=http://wbi%5cnxf42681:Welcome%402017@apac.nics.nxp.com:8080
+# export http_proxy=http://wbi%5cnxf42681:Welcome%402017@apac.nics.nxp.com:8080
+# export https_proxy=http://wbi%5cnxf42681:Welcome%402017@apac.nics.nxp.com:8080
 
 #export https_proxy=
 #export http_proxy=
